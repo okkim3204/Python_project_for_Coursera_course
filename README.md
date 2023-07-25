@@ -2,3 +2,4 @@
 My assignments in Coursera Python course.
 
 Assignment for testing github.
+Assignments 1, 2 and 3.
